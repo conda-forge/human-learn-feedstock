@@ -1,5 +1,5 @@
 {% set name = "human-learn" %}
-{% set version = "0.2.3" %}
+{% set version = "0.2.4" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/human-learn-{{ version }}.tar.gz
-  sha256: 7d7a1372428b7377c3aad20e62e5d0de0dc3ba1379f4c83f0290e4281c0a6d12
+  sha256: 5056b3c3038bb2d176c246f3abe10a3b9f1a8693fccb07fda727849a1cb14a5a
 
 build:
   number: 0
@@ -42,8 +42,8 @@ about:
   dev_url: https://github.com/koaning/human-learn
   doc_url: https://koaning.github.io/human-learn/
   description: |
-      Contains scikit-learn compatible tools that should make it easier to construct 
-      and benchmark rule based systems that are designed by humans.
+    Contains scikit-learn compatible tools that should make it easier to construct 
+    and benchmark rule based systems that are designed by humans.
   license: MIT
   license_file: LICENSE
 
