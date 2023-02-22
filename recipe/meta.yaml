@@ -1,5 +1,5 @@
 {% set name = "human-learn" %}
-{% set version = "0.3.1" %}
+{% set version = "0.3.2" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/human-learn-{{ version }}.tar.gz
-  sha256: 89147558b929a1a2c072f749f505327a3ecb2b0c5779a7c170cc640c1a9120c0
+  sha256: 6bdb73b91e7d0ec636bb096be82e5405083e4d84ed6772e4bf4abf9b5ca1205e
 
 build:
   number: 0
