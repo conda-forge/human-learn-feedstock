@@ -1,11 +1,11 @@
-About human-learn
-=================
+About human-learn-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/human-learn-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/human-learn/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/human-learn-feedstock/blob/main/LICENSE.txt)
 
 Summary: natural intelligence benchmarks for scikit-learn
 
